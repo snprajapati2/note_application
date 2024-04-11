@@ -18,3 +18,12 @@ Technologies Used
     Version Control: Git
 
 Screenshots
+
+![image](https://github.com/snprajapati2/note_application/assets/97979527/c8944f0b-38f7-40e9-927b-9f55260027f2)
+
+![image](https://github.com/snprajapati2/note_application/assets/97979527/162acdf2-009c-4b2c-b90a-a4b64e649f22)
+
+![image](https://github.com/snprajapati2/note_application/assets/97979527/7e1f5d37-fcdf-4d2e-ac63-64bd462fda53)
+
+![image](https://github.com/snprajapati2/note_application/assets/97979527/64acb654-46c6-47b6-827a-c93126ba5603)
+
