@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var listView: ListView
     private lateinit var arrayAdapter: ArrayAdapter<String>
 
+
+
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         menuInflater.inflate(R.menu.add_note_menu, menu)
         return super.onCreateOptionsMenu(menu)
